@@ -4,9 +4,11 @@
 
 Me chamo Felipe Veloso, tenho 16 anos e sou natural de Minas Gerais/São Paulo. Estou cursando o 2 ano do ensino médio regular e, por fora, estudo sobre o mundo tech. sou formado em montagem e reparação de computadores e pretendo ingressar em uma faculdade de engenharia eletrÔnica e mecânica.
 
+[**LinkedIn**](https://www.linkedin.com/in/felipeeveloso/)
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Áreas de Atuação
 
 <img 
     align="left" 
