@@ -62,6 +62,10 @@ Me chamo Felipe Veloso, tenho 16 anos e sou natural de Minas Gerais/São Paulo. 
 
 ---
 
-### 📊 Estatísticas
+### 📊 Fotos
 
-
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4E2DAQFxUBPPn9AR2g/profile-treasury-image-shrink_8192_8192/profile-treasury-image-shrink_8192_8192/0/1734799125033?e=1748962800&v=beta&t=vsdCKwuMzLtvSG5Vhicwcg9GRi5Vmt9uAm5YOEDGL_g" alt="Photo 1" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;" />
+    <img src="https://media.licdn.com/dms/image/v2/D4E2DAQFQyAmFQPjvow/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1734799303223?e=1748962800&v=beta&t=tZFtQuT2SYKUhMdU3BPavvZfdQLq797iLBAEvgMTeSA" alt="Photo 2" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;" />
+    <img src="https://media.licdn.com/dms/image/v2/D4E22AQG8iN_U7XQ24Q/feedshare-shrink_1280/B4EZQT9x.XHsAk-/0/1735501753675?e=1751500800&v=beta&t=57MEaXM6iwVpKHpm_bN7H_bdOYlh4Euqf4SQul3KZdY" alt="Photo 3" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;" />
+</div>
