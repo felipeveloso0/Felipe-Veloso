@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Felipe Veloso
+# 🐢 Felipe Veloso
 
-**`Apaixonado por `**
+**`Apaixonado por Tecnologia`**
 
 Me chamo Felipe Veloso, tenho 16 anos e sou natural de Minas Gerais/São Paulo. Estou cursando o 2 ano do ensino médio regular e, por fora, estudo sobre o mundo tech. sou formado em montagem e reparação de computadores e pretendo ingressar em uma faculdade de engenharia eletrÔnica e mecânica.
 
@@ -45,7 +45,7 @@ Me chamo Felipe Veloso, tenho 16 anos e sou natural de Minas Gerais/São Paulo. 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-excel-1868959-1583123.png?f=webp" 
 />
 <img 
     align="left" 
@@ -53,7 +53,7 @@ Me chamo Felipe Veloso, tenho 16 anos e sou natural de Minas Gerais/São Paulo. 
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-word-1868945-1583109.png" 
 />
 <img 
     align="left" 
@@ -61,7 +61,7 @@ Me chamo Felipe Veloso, tenho 16 anos e sou natural de Minas Gerais/São Paulo. 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.iconscout.com/icon/free/png-256/free-powerpoint-1-190810.png?f=webp" 
 />
 <img 
     align="left" 
@@ -69,7 +69,7 @@ Me chamo Felipe Veloso, tenho 16 anos e sou natural de Minas Gerais/São Paulo. 
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn-icons-png.flaticon.com/256/13/13738.png" 
 />
 <img 
     align="left" 
@@ -77,7 +77,7 @@ Me chamo Felipe Veloso, tenho 16 anos e sou natural de Minas Gerais/São Paulo. 
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn-icons-png.flaticon.com/256/4319/4319109.png" 
 />
 <img 
     align="left" 
@@ -85,71 +85,7 @@ Me chamo Felipe Veloso, tenho 16 anos e sou natural de Minas Gerais/São Paulo. 
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn-icons-png.freepik.com/256/9858/9858062.png?semt=ais_hybrid" 
 />
 
 <br/>
